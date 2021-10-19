@@ -6,7 +6,7 @@ import Deals from '../deals/deals';
 function HomePage() {
     return (
       <div className="homepage-component">
-        <p>this is homepage component</p>
+        <h3>This is homepage component</h3>
         <Workouts/>
         <Directory/>
         <Deals/>

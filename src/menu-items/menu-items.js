@@ -5,7 +5,9 @@ function MenuItem(props) {
     <div className="menuitem-component">
         
       {/* <p>this is menuitem component</p> */}
-      <p>{props.categoryname}</p>
+      <h3>{props.categoryname.name}</h3>
+      <img src={props.categoryname.src} className="menu-img"/>
+      <p>{props.categoryname.description}</p>
   
     </div>
   );

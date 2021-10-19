@@ -26,6 +26,7 @@
 .nav-bars{
     display:flex;
     justify-content: end;
+    margin:17px;
 }
 .nav-bars a{
     margin:10px;
