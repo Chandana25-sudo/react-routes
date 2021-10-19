@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-routes/static/css/main.e8cd8c9c.chunk.css",
+    "main.js": "/react-routes/static/js/main.ac18c47a.chunk.js",
+    "main.js.map": "/react-routes/static/js/main.ac18c47a.chunk.js.map",
+    "runtime-main.js": "/react-routes/static/js/runtime-main.4c068fd5.js",
+    "runtime-main.js.map": "/react-routes/static/js/runtime-main.4c068fd5.js.map",
+    "static/css/2.c1256375.chunk.css": "/react-routes/static/css/2.c1256375.chunk.css",
+    "static/js/2.a1499922.chunk.js": "/react-routes/static/js/2.a1499922.chunk.js",
+    "static/js/2.a1499922.chunk.js.map": "/react-routes/static/js/2.a1499922.chunk.js.map",
+    "static/js/3.9448d59f.chunk.js": "/react-routes/static/js/3.9448d59f.chunk.js",
+    "static/js/3.9448d59f.chunk.js.map": "/react-routes/static/js/3.9448d59f.chunk.js.map",
+    "index.html": "/react-routes/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/react-routes/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.e8cd8c9c.chunk.css.map": "/react-routes/static/css/main.e8cd8c9c.chunk.css.map",
+    "static/js/2.a1499922.chunk.js.LICENSE.txt": "/react-routes/static/js/2.a1499922.chunk.js.LICENSE.txt",
+    "static/media/workout.css": "/react-routes/static/media/yoga-img.d1f656cc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c068fd5.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.a1499922.chunk.js",
+    "static/css/main.e8cd8c9c.chunk.css",
+    "static/js/main.ac18c47a.chunk.js"
+  ]
+}
